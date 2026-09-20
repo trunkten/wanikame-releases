@@ -8,7 +8,7 @@
 
 Your API token stays encrypted on your device. No server, no ads, no tracking.
 
-[![Download](https://img.shields.io/github/v/release/trunkten/wanikame-releases?label=Download&color=f100a1)](https://github.com/trunkten/wanikame-releases/releases/latest)
+[![Download](https://img.shields.io/github/v/release/trunkten/wanikame-releases?sort=semver&label=Download&color=f100a1)](https://github.com/trunkten/wanikame-releases/releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5e5b)](https://ko-fi.com/patojp)
 
 </div>
