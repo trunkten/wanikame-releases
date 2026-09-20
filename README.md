@@ -16,12 +16,11 @@ Your API token stays encrypted on your device. No server, no ads, no tracking.
 ## 📸 Screenshots
 
 <div align="center">
-<img src="screenshots/start.jpg" width="16%" alt="Home" />
-<img src="screenshots/suche.jpg" width="16%" alt="Search" />
-<img src="screenshots/statistik.jpg" width="16%" alt="Statistics" />
-<img src="screenshots/review1.jpg" width="16%" alt="Review" />
-<img src="screenshots/review2.jpg" width="16%" alt="Review – answer" />
-<img src="screenshots/schwierige.jpg" width="16%" alt="Difficult items" />
+<img src="screenshots/start.jpg" width="18%" alt="Home" />
+<img src="screenshots/suche.jpg" width="18%" alt="Search" />
+<img src="screenshots/statistik.jpg" width="18%" alt="Statistics" />
+<img src="screenshots/lektion.jpg" width="18%" alt="Lesson" />
+<img src="screenshots/schwierige.jpg" width="18%" alt="Difficult items" />
 </div>
 
 ## 📥 Download
