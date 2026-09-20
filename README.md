@@ -36,7 +36,7 @@ Get the latest APK from **[Releases](https://github.com/trunkten/wanikame-releas
 
 ## ✨ Features
 
-- **Reviews & lessons** – Anki mode (reveal & self-grade) or typing, with a teach step, undo and a live view of the new SRS stage. The order of the info sections (components, meaning, reading, mnemonics) is freely configurable for lessons and reviews.
+- **Reviews & lessons** – Anki mode (reveal & self-grade, optionally meaning and reading separately) or typing with forgiving typo tolerance; a teach step, undo and a live view of the new SRS stage. Configurable review order (SRS, by type, by level or shuffled) and session size. The order of the info sections (components, meaning, reading, mnemonics) is freely configurable, and tapping a component opens its details.
 - **Kanji readings** – WaniKani's preferred reading is highlighted, with on'yomi / kun'yomi / nanori. A bundled Japanese font (Noto Sans JP) ensures consistent, correct glyphs on every device.
 - **Home** – a clean design with progress, a preview of the reviews coming up over the next hours and a practice screen for difficult items (low accuracy).
 - **Statistics** – SRS distribution, accuracy per type, level-up time, account status (start / reset date) and JLPT coverage per level.
@@ -46,6 +46,7 @@ Get the latest APK from **[Releases](https://github.com/trunkten/wanikame-releas
 - **Browser** – grouped by type in a grid, with search & level filter.
 - **Notifications** – local reminders for due reviews (threshold & optional quiet hours); a tap opens reviews directly.
 - **Offline-capable** – answers are stored locally and synced later.
+- **App language** – German, English or follow the system.
 - **Light / Dark / System** (OLED black).
 
 ## ☕ Support
